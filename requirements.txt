@@ -4,7 +4,7 @@ fire
 matplotlib
 numba
 psutil
-pycocotools
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
 requests
 scikit-image
 scipy
