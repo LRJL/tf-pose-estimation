@@ -1,9 +1,9 @@
-# Tf-Pose-Estimation
+# Modified Tf-Pose-Estimation for Win10
 
 - Pose Estimation cloned from,
 https://github.com/gsethi2409/tf-pose-estimation - tf-pose-estimation by Ildoo Kim modified to work with Tensorflow 2.0
 
-- Transition to win10 environment thanks to,
+- Transition to win10 environment made possible thanks to, 
 
   1. How To Use Bash Shell Natively On Windows 10
 
